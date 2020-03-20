@@ -1,0 +1,15 @@
+C:\Users\Fiach.000\source\repos\ConsoleApp3\ConsoleApp3ML.ConsoleApp\bin\x64\Debug\netcoreapp2.1\MLModel.zip
+C:\Users\Fiach.000\source\repos\ConsoleApp3\ConsoleApp3ML.ConsoleApp\bin\x64\Debug\netcoreapp2.1\ConsoleApp3ML.ConsoleApp.deps.json
+C:\Users\Fiach.000\source\repos\ConsoleApp3\ConsoleApp3ML.ConsoleApp\bin\x64\Debug\netcoreapp2.1\ConsoleApp3ML.ConsoleApp.runtimeconfig.json
+C:\Users\Fiach.000\source\repos\ConsoleApp3\ConsoleApp3ML.ConsoleApp\bin\x64\Debug\netcoreapp2.1\ConsoleApp3ML.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Fiach.000\source\repos\ConsoleApp3\ConsoleApp3ML.ConsoleApp\bin\x64\Debug\netcoreapp2.1\ConsoleApp3ML.ConsoleApp.dll
+C:\Users\Fiach.000\source\repos\ConsoleApp3\ConsoleApp3ML.ConsoleApp\bin\x64\Debug\netcoreapp2.1\ConsoleApp3ML.ConsoleApp.pdb
+C:\Users\Fiach.000\source\repos\ConsoleApp3\ConsoleApp3ML.ConsoleApp\bin\x64\Debug\netcoreapp2.1\ConsoleApp3ML.Model.dll
+C:\Users\Fiach.000\source\repos\ConsoleApp3\ConsoleApp3ML.ConsoleApp\bin\x64\Debug\netcoreapp2.1\ConsoleApp3ML.Model.pdb
+C:\Users\Fiach.000\source\repos\ConsoleApp3\ConsoleApp3ML.ConsoleApp\obj\x64\Debug\netcoreapp2.1\ConsoleApp3ML.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Fiach.000\source\repos\ConsoleApp3\ConsoleApp3ML.ConsoleApp\obj\x64\Debug\netcoreapp2.1\ConsoleApp3ML.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Fiach.000\source\repos\ConsoleApp3\ConsoleApp3ML.ConsoleApp\obj\x64\Debug\netcoreapp2.1\ConsoleApp3ML.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Fiach.000\source\repos\ConsoleApp3\ConsoleApp3ML.ConsoleApp\obj\x64\Debug\netcoreapp2.1\ConsoleApp3ML.ConsoleApp.AssemblyInfo.cs
+C:\Users\Fiach.000\source\repos\ConsoleApp3\ConsoleApp3ML.ConsoleApp\obj\x64\Debug\netcoreapp2.1\ConsoleApp3ML.ConsoleApp.csproj.CopyComplete
+C:\Users\Fiach.000\source\repos\ConsoleApp3\ConsoleApp3ML.ConsoleApp\obj\x64\Debug\netcoreapp2.1\ConsoleApp3ML.ConsoleApp.dll
+C:\Users\Fiach.000\source\repos\ConsoleApp3\ConsoleApp3ML.ConsoleApp\obj\x64\Debug\netcoreapp2.1\ConsoleApp3ML.ConsoleApp.pdb

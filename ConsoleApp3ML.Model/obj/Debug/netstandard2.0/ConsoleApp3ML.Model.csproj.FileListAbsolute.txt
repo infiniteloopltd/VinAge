@@ -1,0 +1,9 @@
+C:\Users\Fiach.000\source\repos\ConsoleApp3\ConsoleApp3ML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\Fiach.000\source\repos\ConsoleApp3\ConsoleApp3ML.Model\bin\Debug\netstandard2.0\ConsoleApp3ML.Model.deps.json
+C:\Users\Fiach.000\source\repos\ConsoleApp3\ConsoleApp3ML.Model\bin\Debug\netstandard2.0\ConsoleApp3ML.Model.dll
+C:\Users\Fiach.000\source\repos\ConsoleApp3\ConsoleApp3ML.Model\bin\Debug\netstandard2.0\ConsoleApp3ML.Model.pdb
+C:\Users\Fiach.000\source\repos\ConsoleApp3\ConsoleApp3ML.Model\obj\Debug\netstandard2.0\ConsoleApp3ML.Model.csproj.CoreCompileInputs.cache
+C:\Users\Fiach.000\source\repos\ConsoleApp3\ConsoleApp3ML.Model\obj\Debug\netstandard2.0\ConsoleApp3ML.Model.AssemblyInfoInputs.cache
+C:\Users\Fiach.000\source\repos\ConsoleApp3\ConsoleApp3ML.Model\obj\Debug\netstandard2.0\ConsoleApp3ML.Model.AssemblyInfo.cs
+C:\Users\Fiach.000\source\repos\ConsoleApp3\ConsoleApp3ML.Model\obj\Debug\netstandard2.0\ConsoleApp3ML.Model.dll
+C:\Users\Fiach.000\source\repos\ConsoleApp3\ConsoleApp3ML.Model\obj\Debug\netstandard2.0\ConsoleApp3ML.Model.pdb

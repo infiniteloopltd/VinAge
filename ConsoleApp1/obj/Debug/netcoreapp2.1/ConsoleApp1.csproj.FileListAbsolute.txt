@@ -1,0 +1,15 @@
+C:\Users\Fiach.000\source\repos\ConsoleApp3\ConsoleApp1\bin\Debug\netcoreapp2.1\MLModel.zip
+C:\Users\Fiach.000\source\repos\ConsoleApp3\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+C:\Users\Fiach.000\source\repos\ConsoleApp3\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+C:\Users\Fiach.000\source\repos\ConsoleApp3\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Fiach.000\source\repos\ConsoleApp3\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\Fiach.000\source\repos\ConsoleApp3\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Users\Fiach.000\source\repos\ConsoleApp3\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp3ML.Model.dll
+C:\Users\Fiach.000\source\repos\ConsoleApp3\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp3ML.Model.pdb
+C:\Users\Fiach.000\source\repos\ConsoleApp3\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Fiach.000\source\repos\ConsoleApp3\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Fiach.000\source\repos\ConsoleApp3\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Fiach.000\source\repos\ConsoleApp3\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Fiach.000\source\repos\ConsoleApp3\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CopyComplete
+C:\Users\Fiach.000\source\repos\ConsoleApp3\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\Fiach.000\source\repos\ConsoleApp3\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
